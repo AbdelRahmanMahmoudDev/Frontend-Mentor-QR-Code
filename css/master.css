@@ -1,0 +1,61 @@
+:root {
+    --background-color: hsl(212, 45%, 89%);
+    --title-color: hsl(218, 44%, 22%);
+    --text-color: hsl(220, 15%, 55%);
+    --card-color: hsl(0, 0%, 100%);
+    --border-radius: 10px;
+}
+
+body {
+    background-color: var(--background-color);
+    font-family: 'Outfit', sans-serif;
+}
+
+
+
+.card {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: var(--card-color);
+    padding: 10px;
+    border-radius: var(--border-radius);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+}
+
+.card img {
+    border-style: none;
+    max-width: 200px;
+    border-radius: var(--border-radius);
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+    margin-bottom: 10px;
+}
+
+.card h1 {
+    font-size: 1.0rem;
+    max-width: 12rem;
+    font-weight: 700;
+    color: var(--title-color);
+}
+
+.card p {
+    font-size: 0.7rem;
+    max-width: 12rem;
+    color: var(--text-color);
+}
