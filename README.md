@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -22,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/AbdelRahmanMahmoudDev/Frontend-Mentor-QR-Code)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://abdelrahmanmahmouddev.github.io/Frontend-Mentor-QR-Code/)
 
 ### Built with
 
@@ -30,6 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS3
 - Flexbox
 
+### Author
 - LinkedIn - [Abdelrahman Mahmoud](https://www.linkedin.com/in/abdelrahman-mahmoud-535831197/)
 - Frontend Mentor - [@AbdelRahmanMahmoudDev](https://www.frontendmentor.io/profile/AbdelRahmanMahmoudDev)
 - Github - [@AbdelRahmanMahmoudDev](https://github.com/AbdelRahmanMahmoudDev)
